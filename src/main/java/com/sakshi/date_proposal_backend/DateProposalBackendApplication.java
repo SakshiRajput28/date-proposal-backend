@@ -10,4 +10,5 @@ public class DateProposalBackendApplication {
 		SpringApplication.run(DateProposalBackendApplication.class, args);
 	}
 
+
 }
