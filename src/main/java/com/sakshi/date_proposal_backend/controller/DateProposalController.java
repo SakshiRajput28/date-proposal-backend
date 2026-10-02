@@ -12,7 +12,7 @@ import com.sakshi.date_proposal_backend.service.DateProposalService;
 
 @RestController
 @RequestMapping("/api/date")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://lighthearted-baklava-52610d.netlify.app")
 public class DateProposalController {
 
     private final DateProposalService service;
